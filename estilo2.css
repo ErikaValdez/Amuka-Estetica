@@ -34,7 +34,7 @@ p{
 	z-index: 0; /* es para servicios main*/
 
 	/*background-image: url("maquillaje.PNG");*/
-	background-image: url(../imagenes/maquillaje.JPG);
+	background-image: url(https://github.com/ErikaValdez/Amuka-Estetica/blob/gh-page/imagenes/maquillaje.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
