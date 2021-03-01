@@ -33,7 +33,7 @@ p{
 	left: 0;	
 	z-index: 0; /* es para servicios main*/
 
-	background-image: url("maquillaje.png");
+	
 	background-image: url(../imagenes/maquillaje.png);
 	background-size: cover;
 	background-position: center;
